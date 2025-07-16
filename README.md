@@ -1,1 +1,1 @@
-# Ryzen-USB-Fix-Repo
+# RyzenUSBfix
