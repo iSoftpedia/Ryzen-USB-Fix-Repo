@@ -1,0 +1,4 @@
+
+[Ryzen] USBfix	Ryzen/USBfix.txt
+[Ryzen] USBfix_old	Ryzen/USBfix_old.txt
+[Ryzen] USBfix_test	Ryzen/USBfix_test.txt
